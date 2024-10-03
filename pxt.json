@@ -1,5 +1,5 @@
 {
-    "name": "mine_sweeper",
+    "name": "Mine_Sweeper",
     "description": "",
     "dependencies": {
         "device": "*",
